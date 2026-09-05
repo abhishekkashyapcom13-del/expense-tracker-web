@@ -1,1 +1,6 @@
-templates/index.html
+base.html
+index.html
+analytics.html
+edit_expense.html
+edit_income.html
+income_history.html
